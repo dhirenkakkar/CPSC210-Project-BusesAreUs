@@ -1,4 +1,4 @@
-# CPSC210-Project-BusesAreUs
+# CPSC210-Project-Buses R'Us
 
 Developed in: Java (IDE: Intellij IDEA CE)
 
