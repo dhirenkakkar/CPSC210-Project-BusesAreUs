@@ -1,15 +1,13 @@
 # CPSC210-Project-Buses R'Us
 
-Developed in: Java (IDE: Intellij IDEA CE)
-
-An Android application that maps the geolocation tracking of the buses in Greater Vancouver Area. A layout code was provided by University of British Columbia and my contribution to the code was completion of certain tasks provided by 
-the course instructor. (* Code cannot be posted due to academic conduct and privacy).
+An Android application that maps the movement of transit buses in Greater Vancouver Area. A layout code was provided by University of British Columbia and my contribution to the code was completion of certain tasks provided by 
+the course instructor.
 
 This application mapped the location of stops, buses and bus routes on the Greater Vancouver Transit system 
 and retrieved real time arrival information of buses at those stops. It also plotted the user's location on the map 
 and highlighted the nearest bus stop. To do this, the app made use of TransLink Open API service.
 
-Relevant topics tested and individually coded:
+# Working
 
 Phase 1:
 - Class modeling and implementation
